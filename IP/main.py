@@ -7,7 +7,7 @@ from dataload import applyPCA
 from sklearn import preprocessing
 import CNNmodule
 import DSRGCN
-import LDA_SLIC
+import PCA_SLIC
 import STnet
 from sklearn import metrics
 from matplotlib import  pyplot as plt
